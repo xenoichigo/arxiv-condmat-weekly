@@ -2,7 +2,7 @@ name: arxiv weekly
 
 on:
   schedule:
-    - cron: "0 0 * * 1"   # 毎週月曜 00:00 UTC（必要なら調整）
+    - cron: "0 1 * * 5"   # 毎週月曜 00:00 UTC（必要なら調整）
   workflow_dispatch:
 
 permissions:
