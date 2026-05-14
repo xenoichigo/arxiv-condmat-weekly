@@ -17,7 +17,7 @@ KEYWORDS = [
     r"\bsurface\b",
     r"\bsuperstructure\b",
     r"\bARPES\b",
-    r"\b(STM)\b",
+    r"\bSTM\b",
 ]
 
 CATEGORY_HINTS = [
@@ -108,7 +108,7 @@ def main():
 <body>
   <div class="header">
     <h1>arXiv cond-mat 最新 7日</h1>
-    <p>フィルタ: Rashba / 2D / surface / superstructure / surface reconstruction（スコア順）</p>
+    <p>フィルタ: Rashba / 2D / ARPES / superstructure / STM（スコア順）</p>
   </div>
 
   {cards}
