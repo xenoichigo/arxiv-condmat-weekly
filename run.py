@@ -16,8 +16,8 @@ KEYWORDS = [
     r"\b(two[- ]dimensional material|2D material)\b",
     r"\bsurface\b",
     r"\bsuperstructure\b",
-    r"\bsurface reconstruction\b",
-    r"\b(topological surface)\b",
+    r"\bARPES\b",
+    r"\b(STM)\b",
 ]
 
 CATEGORY_HINTS = [
