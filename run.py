@@ -13,11 +13,9 @@ SINCE = NOW - timedelta(days=7)
 KEYWORDS = [
     r"\bRashba\b",
     r"\b(two[- ]dimensional|2D)\b",
-    r"\b(two[- ]dimensional material|2D material)\b",
-    r"\bsurface\b",
-    r"\bsuperstructure\b",
     r"\bARPES\b",
     r"\bSTM\b",
+    r"\bsuperstructure\b",
 ]
 
 CATEGORY_HINTS = [
